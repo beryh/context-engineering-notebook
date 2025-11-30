@@ -67,11 +67,6 @@ Based on insights from [How to Fix Your Context](https://www.dbreunig.com/2025/0
 - AWS Account with Bedrock access
 - Jupyter Notebook or JupyterLab
 
-### Installation
-```bash
-pip install langchain langchain-aws boto3 sentence-transformers scikit-learn numpy
-```
-
 ## Key Takeaway
 
 **Garbage In, Garbage Out**: More context isn't always better. Strategic context management improves LLM performance, reduces costs, and delivers more accurate results.
