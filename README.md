@@ -63,19 +63,13 @@ Based on insights from [How to Fix Your Context](https://www.dbreunig.com/2025/0
 ## Getting Started
 
 ### Prerequisites
-- Python 3.8+
+- Python 3.11+
 - AWS Account with Bedrock access
 - Jupyter Notebook or JupyterLab
 
 ### Installation
 ```bash
 pip install langchain langchain-aws boto3 sentence-transformers scikit-learn numpy
-```
-
-### Usage
-Open any notebook to explore a specific technique:
-```bash
-jupyter notebook 01_tool_loadout.ipynb
 ```
 
 ## Key Takeaway
